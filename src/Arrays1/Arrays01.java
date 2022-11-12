@@ -15,5 +15,6 @@ public class Arrays01{
         System.out.println(Arrays.toString(arr2));//[0, 11, 0, 12]
         System.out.println(arr1[0]);//Ali
        Arrays01 aa= new Arrays01();
+
     }
 }

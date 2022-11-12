@@ -1,6 +1,6 @@
 package Arrays1;
 
-public class Arrys02 {
+public class Arrays02 {
     public static void main(String[] args) {
 
         String arr1[]={"Ali", "Veli","Ayse"};
